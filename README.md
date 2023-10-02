@@ -1,5 +1,5 @@
 # Simple Wi-Fi remote control for Hot Wheels
-Simple remote control for Hot Wheels base on ESP01f microcontroller and L9110SO motor driver.
+Simple remote control for Hot Wheels base on ESP01f microcontroller and L9110S motor driver using RemoteXY mobile app.
 ## Circuit
 ![circuit](https://github.com/poweredbyme13/rx-tx-simple/blob/3f2862e1e3bda167b3ee6dfa0747d65b7253747c/circuit.png)
 ## PCB
