@@ -13,7 +13,7 @@ Simple remote control for Hot Wheels based on ESP01f microcontroller and L9110S 
 ## Code
 [Ino file for Arduino IDE](https://github.com/poweredbyme13/rx-tx-simple/blob/555e1021204c16bbfb64264150b0fc32753686c4/rx-tx-simple.ino)
 
-add ESP8266 boards support (http://arduino.esp8266.com/stable/package_esp8266com_index.json) and [RemoteXY](https://remotexy.com/) library
+add ESP8266 boards support (http://arduino.esp8266.com/stable/package_esp8266com_index.json) and ([RemoteXY library](https://remotexy.com/en/library/))
 
 ## Samples and photos
 ![Hot Wheels RC conversion](https://github.com/poweredbyme13/rx-tx-simple/blob/555e1021204c16bbfb64264150b0fc32753686c4/sample.jpg)
