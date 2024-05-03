@@ -19,3 +19,6 @@ add before ESP8266 boards support (http://arduino.esp8266.com/stable/package_esp
 [![How to](https://github.com/poweredbyme13/rx-tx-simple/blob/9bec411e3bcb5923f0ac5b00b30c9dbdd83d4838/video-how-to.jpg)](https://youtu.be/Aw81hBvDUeU?si=ySWxfOs3ZTfEUfnX)
 ![PCB diagram](https://github.com/poweredbyme13/rx-tx-simple/blob/b0e2678b267e1e6f0fb92a594e49af5cd7b44dfe/diagram.jpg)
 ![Hot Wheels RC conversion](https://github.com/poweredbyme13/rx-tx-simple/blob/555e1021204c16bbfb64264150b0fc32753686c4/sample.jpg)
+
+> [!IMPORTANT]
+> Don't forget about antenna (~31mm) connected to the pin#1.
