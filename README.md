@@ -10,6 +10,10 @@ Simple remote control for Hot Wheels based on ESP01f microcontroller and L9110S 
 
 <a href="https://www.pcbway.com/project/shareproject/Simple_Wi_Fi_remote_control_for_DIY_toys_Hot_Wheels_0b7cedf3.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
+## PCB diagram
+
+![PCB diagram](https://github.com/poweredbyme13/rx-tx-simple/blob/47c1da59b4683ff2ec2f0791ebdb4323f61b9385/pcb-diagram.png)
+
 ## Code
 [Ino file for Arduino IDE](https://github.com/poweredbyme13/rx-tx-simple/blob/555e1021204c16bbfb64264150b0fc32753686c4/rx-tx-simple.ino)
 
